@@ -1,0 +1,22 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This is to test custom pages."
+        }
+      ]
+    }
+  ],
+  "title": "New Home",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "new-home",
+  "created_at": "2025-06-17T14:10:23.410Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-06-17T14:10:23.410Z",
+  "updated_by": "SteveMarvin"
+}
