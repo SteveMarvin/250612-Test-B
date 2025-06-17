@@ -1,5 +1,22 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 5,
+      "end_time": 15,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Steak is delicious."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "bd6e36b0-dd41-4b31-b3f8-61a31fdc3071"
+    }
+  ],
   "set": "Default",
   "event_id": "92d6a76b-128d-4fab-b6d7-273bd70a9e1a",
   "source_id": "3681209a-f1cf-44a9-b2a3-adef5dcc0759"
