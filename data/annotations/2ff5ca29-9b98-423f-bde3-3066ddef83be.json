@@ -13,7 +13,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Note 01",
+          "tag": "01"
+        },
+        {
+          "category": "Note 01",
+          "tag": "02"
+        },
+        {
+          "category": "Note 02",
+          "tag": "05"
+        },
+        {
+          "category": "Note 02",
+          "tag": "04"
+        }
+      ],
       "uuid": "dd4a6958-12f1-4d48-b8be-0b504d69d0c9"
     },
     {
