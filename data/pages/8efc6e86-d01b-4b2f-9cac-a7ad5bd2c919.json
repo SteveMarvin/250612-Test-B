@@ -36,11 +36,11 @@
   "title": "Test Home",
   "autogenerate": {
     "enabled": false,
-    "type": "custom"
+    "type": "home"
   },
   "slug": "test-home",
   "created_at": "2025-06-24T15:12:41.985Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2025-06-24T15:12:41.985Z",
+  "updated_at": "2025-06-24T15:12:51.495Z",
   "updated_by": "SteveMarvin"
 }
