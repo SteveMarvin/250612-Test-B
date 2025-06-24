@@ -1,0 +1,46 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Is this the real life?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Is this just fantasy?"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Caught in a landslide"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "No escape from reality."
+        }
+      ]
+    }
+  ],
+  "title": "Test Home",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "test-home",
+  "created_at": "2025-06-24T15:12:41.985Z",
+  "created_by": "SteveMarvin",
+  "updated_at": "2025-06-24T15:12:41.985Z",
+  "updated_by": "SteveMarvin"
+}
