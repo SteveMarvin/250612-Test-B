@@ -113,6 +113,115 @@
       ],
       "tags": [],
       "uuid": "c6b2b821-87cf-4d23-8c13-eead31d8afd5"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "text": "Here",
+          "bold": true
+        },
+        {
+          "text": " is "
+        },
+        {
+          "text": "some ",
+          "italic": true
+        },
+        {
+          "text": "formatted "
+        },
+        {
+          "text": "text"
+        },
+        {
+          "text": ". Let's try a "
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "bunch of "
+            },
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "formatting."
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4b83b5d8-9230-4b5b-8d06-42eeae691ea4"
+    },
+    {
+      "start_time": 1,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is a note."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Note 01",
+          "tag": "01"
+        },
+        {
+          "category": "Note 01",
+          "tag": "02"
+        },
+        {
+          "category": "Note 02",
+          "tag": "05"
+        },
+        {
+          "category": "Note 02",
+          "tag": "04"
+        }
+      ],
+      "uuid": "d3b4c0d6-d5e6-4119-9f9c-307d2f6d5949"
+    },
+    {
+      "start_time": 15,
+      "end_time": 30,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here is another note."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f95e9274-531d-425b-bbad-9fd1d49574c4"
+    },
+    {
+      "start_time": 20,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Little more"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "d002d884-9f0a-4850-8e1d-b07ea6e00ebb"
     }
   ],
   "set": "Default",
