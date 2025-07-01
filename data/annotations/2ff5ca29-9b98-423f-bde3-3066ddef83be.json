@@ -64,6 +64,55 @@
       ],
       "tags": [],
       "uuid": "72857609-269b-4f71-821f-e20be6cc30f5"
+    },
+    {
+      "start_time": 1,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Here",
+              "bold": true
+            },
+            {
+              "text": " is "
+            },
+            {
+              "text": "some ",
+              "italic": true
+            },
+            {
+              "text": "formatted ",
+              "underline": true
+            },
+            {
+              "text": "text",
+              "strikethrough": true
+            },
+            {
+              "text": ". Let's try a "
+            },
+            {
+              "text": "bunch ",
+              "highlight": "#1fd184"
+            },
+            {
+              "text": "of "
+            },
+            {
+              "text": "formatting",
+              "color": "#d51a7e"
+            },
+            {
+              "text": "."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "c6b2b821-87cf-4d23-8c13-eead31d8afd5"
     }
   ],
   "set": "Default",
