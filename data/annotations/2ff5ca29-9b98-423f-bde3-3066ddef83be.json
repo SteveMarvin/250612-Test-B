@@ -209,7 +209,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Note 02",
+          "tag": "05"
+        }
+      ],
       "uuid": "f95e9274-531d-425b-bbad-9fd1d49574c4"
     },
     {
