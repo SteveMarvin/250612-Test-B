@@ -155,6 +155,24 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://fastly.picsum.photos/id/136/4032/2272.jpg?hmac=8ygXp61m49P3x_uMkBih2sZHJwEaTLp5ZuOOVNE9qhU",
+      "caption": "Cool Rock Formation",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "title": "New Home",
@@ -165,7 +183,7 @@
   "slug": "new-home",
   "created_at": "2025-06-17T14:10:23.410Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2025-07-08T18:05:54.367Z",
+  "updated_at": "2025-07-10T17:15:57.846Z",
   "updated_by": "SteveMarvin",
   "parent": "8efc6e86-d01b-4b2f-9cac-a7ad5bd2c919"
 }
