@@ -71,12 +71,12 @@
   ],
   "title": "Test Home",
   "autogenerate": {
-    "enabled": false,
+    "enabled": true,
     "type": "home"
   },
   "slug": "test-home",
   "created_at": "2025-06-24T15:12:41.985Z",
   "created_by": "SteveMarvin",
-  "updated_at": "2025-07-10T17:08:33.624Z",
+  "updated_at": "2025-07-10T17:10:57.567Z",
   "updated_by": "SteveMarvin"
 }
